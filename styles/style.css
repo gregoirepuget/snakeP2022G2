@@ -1,0 +1,32 @@
+body{
+  margin:0;
+  padding:0;
+}
+#snake{
+  width:10px;
+  height:10px;
+  position:absolute;
+  background: #8e44ad;
+}
+
+#tail div{
+  width:10px;
+  height:10px;
+  position:absolute;
+  background:#9b59b6;
+}
+
+#diamond{
+  width:10px;
+  height:10px;
+  position:absolute;
+  background: #e74c3c;
+}
+
+#score{
+  position:absolute;
+  right:20px;
+  top:20px;
+  font-size:20px;
+  color:#2c3e50;
+}
